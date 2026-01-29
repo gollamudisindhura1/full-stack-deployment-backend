@@ -1,4 +1,4 @@
-const Note = require('../models/note-model');
+const Note = require('../models/note-models');
 
 async function seedNotes(req, res) {
   try {
